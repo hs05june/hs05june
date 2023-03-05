@@ -24,12 +24,12 @@
 
 - ♬ Music my passion.
   
-  <img align="right" alt="GIF" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width="500" height="600" />
+  <img align="right" alt="GIF" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width="450" height="600" />
 
 - 💼 any freelance work? do reach, [email](mailto:harpreet.singh.cse21@itbhu.ac.in) :)
 <br>
  
-<h2>📈Github Stats</h2>
+### <h2>📈Github Stats</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=hs05june&show_icons=true&count_private=true&theme=tokyonight" align="center" />  
 <br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hs05june&theme=tokyonight" align="center" />
