@@ -80,7 +80,11 @@
 <br/>
 <br/>
 
-## Recent Activity 
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+## Recent Activity
+
+This is a list of my most recent activity on GitHub.
+
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:last_update-->
