@@ -80,8 +80,6 @@
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
 </div>
 <br/>
-<br/>
-
 
 ## <h2>Recent Activity</h2>
 
