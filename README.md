@@ -83,7 +83,7 @@
 <br/>
 
 
-## Recent Activity
+## <h2>Recent Activity</h2>
 
 This is a list of my most recent activity on GitHub.
 
