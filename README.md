@@ -31,7 +31,7 @@
 - 💼 any freelance work? do reach, [email](mailto:harpreet.singh.cse21@itbhu.ac.in) :)
 <br>
  
-### <h2>📈Github Stats</h2>
+### <h2>📈 Github Stats</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=hs05june&show_icons=true&count_private=true&theme=tokyonight" align="center" />  
 <br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hs05june&theme=tokyonight" align="center" />
