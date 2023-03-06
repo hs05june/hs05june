@@ -81,7 +81,7 @@
 </div>
 <br>
 
-## <h2>Recent Activity</h2>
+## 🎳 Recent Activity
 
 This is a list of my most recent activity on GitHub.
 
