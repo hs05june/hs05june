@@ -82,11 +82,8 @@
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
 </div>
 <br>
+### :zap: Recent Activity
 
-## 🎳 Recent Activity
+<!--START_SECTION:activity-->
 
-This is a list of my most recent activity on GitHub.
-
-<!--RECENT_ACTIVITY:start-->
-
-<!--RECENT_ACTIVITY:last_update-->
+<!--END_SECTION:activity-->
