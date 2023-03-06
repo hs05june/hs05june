@@ -26,16 +26,18 @@
 
 - ♬ Music my passion.
   
-  <img align="right" alt="GIF" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" width="300" height="600"/>
-
+  
 - 💼 any freelance work? do reach, [email](mailto:harpreet.singh.cse21@itbhu.ac.in) :)
 <br>
- 
+ <div align="left">
 ### <h2>📈 Github Stats</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=hs05june&show_icons=true&count_private=true&theme=tokyonight" align="center" />  
 <br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hs05june&theme=tokyonight" align="center" />
 <br />
+  </div>
+  <img align="right" alt="GIF" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" width="300" height="550"/>
+
 <br/>
 <br/>
 <h2 align="center">Languages and Tools</h2><div align="center">  
